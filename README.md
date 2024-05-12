@@ -1,7 +1,7 @@
 # Flexbox
 
 ### Deployment
-Link: 
+Link: https://thuduongnguyen.github.io/flexbox/
 
 ### Technique
 - HTML
